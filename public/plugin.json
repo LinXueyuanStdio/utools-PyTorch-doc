@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "pluginName": "PyTorch 文档",
+  "description": "PyTorch 文档",
+  "author": "LinXueyuanStdio",
+  "homepage": "https://LinXueyuanStdio/utools-PyTorch-doc",
+  "preload": "preload.js",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "torch",
+      "explain": "PyTorch 文档速查",
+      "cmds": ["torch"]
+    }
+  ]
+}
